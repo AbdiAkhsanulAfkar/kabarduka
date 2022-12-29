@@ -1,0 +1,16 @@
+[10-Dec-2020 23:00:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaby5494/public_html/FAQ.php on line 71
+[10-Dec-2020 23:00:21 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 72
+[10-Dec-2020 23:00:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 75
+[10-Dec-2020 23:00:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaby5494/public_html/FAQ.php on line 76
+[11-Dec-2020 10:16:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaby5494/public_html/FAQ.php on line 71
+[11-Dec-2020 10:16:19 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 72
+[11-Dec-2020 10:16:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 75
+[11-Dec-2020 10:16:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaby5494/public_html/FAQ.php on line 76
+[11-Dec-2020 10:16:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaby5494/public_html/FAQ.php on line 71
+[11-Dec-2020 10:16:27 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 72
+[11-Dec-2020 10:16:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 75
+[11-Dec-2020 10:16:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaby5494/public_html/FAQ.php on line 76
+[11-Dec-2020 10:16:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaby5494/public_html/FAQ.php on line 71
+[11-Dec-2020 10:16:52 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 72
+[11-Dec-2020 10:16:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaby5494/public_html/FAQ.php on line 75
+[11-Dec-2020 10:16:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaby5494/public_html/FAQ.php on line 76

@@ -1,0 +1,4 @@
+[10-Dec-2020 21:16:27 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaby5494/public_html/daftar/kirim-bunga/db.php on line 15
+[10-Dec-2020 21:18:51 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaby5494/public_html/daftar/kirim-bunga/db.php:23) in /home/kaby5494/public_html/daftar/kirim-bunga/db.php on line 25
+[10-Dec-2020 21:20:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaby5494/public_html/daftar/kirim-bunga/db.php:23) in /home/kaby5494/public_html/daftar/kirim-bunga/db.php on line 25
+[11-Dec-2020 09:45:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaby5494/public_html/daftar/kirim-bunga/db.php:23) in /home/kaby5494/public_html/daftar/kirim-bunga/db.php on line 25

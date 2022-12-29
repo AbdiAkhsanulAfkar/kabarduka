@@ -1,0 +1,19 @@
+
+                    <div class="form-group">
+                        <label>Nama Provinsi</label>
+                        <select class="form-control" name="id_provinsi" id="exampleFormControlSelect1">
+                            <?php
+
+                            $sql = "select * from tb_mprovinsi";
+
+                            $hasil = mysqli_query($koneksi, $sql);
+                            $no = 0;
+                            while ($tampil = mysqli_fetch_array($hasil)) {
+                                $no++;
+                            ?>
+                                <option value="<?php echo $tampil['id_Provinsi']; ?>"><?php echo $tampil['nama_provinsi']; ?></option>
+                            <?php
+                            }
+                            ?>
+                        </select>
+                    </div>
